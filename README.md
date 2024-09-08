@@ -1,0 +1,1 @@
+# join_by_vertex_group_blender_script
